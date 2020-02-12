@@ -3,6 +3,5 @@ This is a small project that utilizes altair visualization to make interactive c
 
 ### Anomaly Detection Chart
 
-<img src = "images/no_selection.png" height = "500">
-<img src = "images/selection.png" height = "500">
+<img src = "images/no_selection.png" height = "500"><img src = "images/selection.png" height = "500">
 
